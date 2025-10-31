@@ -46,13 +46,13 @@ Multiply unit price by units consumed to calculate the total bill.
 Display the final bill amount.
 
 ## Example Input/Output
-1.Enter h for house consumer and c for commercial user: h
-Enter the amount of units consumed: 250
-Your electricity bill of this month is 3000.
+1.  Enter h for house consumer and c for commercial user: h                                                                                   
+    Enter the amount of units consumed: 250                                                                                                                
+    Your electricity bill of this month is 3000.                                                                                           
 
-2.Enter h for house consumer and c for commercial user: c
-Enter the amount of units consumed: 500
-Your electricity bill of this month is 10000.
+2.  Enter h for house consumer and c for commercial user: c                                                                      
+    Enter the amount of units consumed: 500                                                                                        
+    Your electricity bill of this month is 10000.                                                                                  
 
 
 ## Key Concepts Practiced

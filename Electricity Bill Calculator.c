@@ -1,4 +1,8 @@
-
+/*
+Program: Electricity Bill Calculator (Using Nested if–else Statements)
+Author: Aasher
+Description: Calculates electricity bill based on consumer type (house/commercial) and units consumed using nested and chained if–else statements.
+*/
 #include <stdio.h>
 
 int main()
